@@ -4,8 +4,15 @@
   "description": "live sobre SOLID aplicado em typeScript",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alexandre Lunardi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^7.0.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
