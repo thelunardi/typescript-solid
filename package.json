@@ -1,7 +1,7 @@
 {
   "name": "typescript-solid",
   "version": "1.0.0",
-  "description": "live sobre SOLID aplicado em typeScript",
+  "description": "live sobre SOLID aplicado em TypeScript",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
